@@ -1,7 +1,7 @@
-id=Custom_Doze
-name=Custom_Doze
-version=v1.5
+id=Ginkgo_Doze
+name=Ginkgo_Doze
+version=v1
 versionCode=1
 author=nilocnt
-description=Custom_Doze & Xiaomi_Doze For Ginkgo and others devices.
-updateJson=https://github.com/nilocnt/Custom_doze
+description=Custom_Doze & Xiaomi_Doze For Ginkgo.
+updateJson=https://github.com/nilocnt/Ginkgo_Doze
